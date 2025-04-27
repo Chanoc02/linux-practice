@@ -1,0 +1,1 @@
+ssh -i ~/ssh-keys/linuxpractice.pem ec2-user@ec2-3-148-167-66.us-east-2.compute.amazonaws.com
