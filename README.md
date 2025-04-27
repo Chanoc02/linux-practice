@@ -26,7 +26,7 @@ linux-practice/
 - [x] Create and push first bash script
 - [x] Automate tasks with cron
 - [x] Configure firewall and basic networking
-- [ ] Launch EC2 instance and connect via SSH (cloud literacy)
+- [x] Launch EC2 instance and connect via SSH (cloud literacy)
 - [ ] Build a mock system monitoring dashboard
 - [ ] Explore log rotation and basic monitoring tools
 
