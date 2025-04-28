@@ -28,7 +28,7 @@ linux-practice/
 - [x] Configure firewall and basic networking
 - [x] Launch EC2 instance and connect via SSH (cloud literacy)
 - [x] Build a mock system monitoring dashboard
-- [ ] Explore log rotation and basic monitoring tools
+- [x] Explore log rotation and basic monitoring tools
 
 ## 🌐 Why Cloud Literacy?
 Modern system administrators often work with hybrid or cloud-based environments. Understanding how to connect to and manage Linux servers in the cloud makes me more versatile and valuable in real-world IT environments.
