@@ -29,6 +29,17 @@ linux-practice/
 - [x] Launch EC2 instance and connect via SSH (cloud literacy)
 - [x] Build a mock system monitoring dashboard
 - [x] Explore log rotation and basic monitoring tools
+--
+
+### 🛠️ In Progress:
+- [ ] Create multiple users and manage access
+- [ ] Practice group permissions and shared folders
+- [ ] Harden SSH (disable root login, change port)
+- [ ] Install Fail2ban and simulate SSH brute force protection
+- [ ] Set up file sharing with Samba or NFS
+- [ ] Set up a local database server (MySQL/PostgreSQL)
+- [ ] Run basic Nmap scans on own server
+- [ ] Host a basic HTML monitoring dashboard
 
 ## 🌐 Why Cloud Literacy?
 Modern system administrators often work with hybrid or cloud-based environments. Understanding how to connect to and manage Linux servers in the cloud makes me more versatile and valuable in real-world IT environments.
