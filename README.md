@@ -33,7 +33,7 @@ linux-practice/
 
 ### 🛠️ In Progress:
 - [x] Create multiple users and manage access
-- [ ] Practice group permissions and shared folders
+- [x] Practice group permissions and shared folders
 - [ ] Harden SSH (disable root login, change port)
 - [ ] Install Fail2ban and simulate SSH brute force protection
 - [ ] Set up file sharing with Samba or NFS
