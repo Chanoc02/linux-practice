@@ -35,7 +35,7 @@ linux-practice/
 - [x] Create multiple users and manage access
 - [x] Practice group permissions and shared folders
 - [x] Harden SSH (disable root login, change port)
-- [ ] Install Fail2ban and simulate SSH brute force protection
+- [x] Install Fail2ban and simulate SSH brute force protection
 - [ ] Set up file sharing with Samba or NFS
 - [ ] Set up a local database server (MySQL/PostgreSQL)
 - [ ] Run basic Nmap scans on own server
