@@ -37,7 +37,7 @@ linux-practice/
 - [x] Harden SSH (disable root login, change port)
 - [x] Install Fail2ban and simulate SSH brute force protection
 - [x] Set up file sharing with Samba or NFS
-- [ ] Set up a local database server (MySQL/PostgreSQL)
+- [X] Set up a local database server (MySQL/PostgreSQL)
 - [ ] Run basic Nmap scans on own server
 - [ ] Host a basic HTML monitoring dashboard
 
