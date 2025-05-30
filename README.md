@@ -39,7 +39,7 @@ linux-practice/
 - [x] Set up file sharing with Samba or NFS
 - [X] Set up a local database server (MySQL/PostgreSQL)
 - [x] Run basic Nmap scans on own server
-- [ ] Host a basic HTML monitoring dashboard
+- [x] Host a basic HTML monitoring dashboard
 
 ## 🌐 Why Cloud Literacy?
 Modern system administrators often work with hybrid or cloud-based environments. Understanding how to connect to and manage Linux servers in the cloud makes me more versatile and valuable in real-world IT environments.
