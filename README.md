@@ -38,7 +38,7 @@ linux-practice/
 - [x] Install Fail2ban and simulate SSH brute force protection
 - [x] Set up file sharing with Samba or NFS
 - [X] Set up a local database server (MySQL/PostgreSQL)
-- [ ] Run basic Nmap scans on own server
+- [x] Run basic Nmap scans on own server
 - [ ] Host a basic HTML monitoring dashboard
 
 ## 🌐 Why Cloud Literacy?
