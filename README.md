@@ -1,4 +1,3 @@
-
 # Linux System Administration Portfolio 🚀
 
 This repo contains **completed labs, scripts, and projects** demonstrating real-world Linux system administration, automation, and cloud deployment skills.  
@@ -10,7 +9,6 @@ This repo contains **completed labs, scripts, and projects** demonstrating real-
 ### 🔹 System Basics
 - Linux + GitHub setup  
 - Bash scripting & automation with cron  
-- Log rotation and monitoring tools  
 
 ### 🔹 Security & Hardening
 - User & group management with ACLs  
@@ -28,10 +26,8 @@ This repo contains **completed labs, scripts, and projects** demonstrating real-
 - Nginx/Apache web server + reverse proxy  
 - MySQL/Postgres setup with users & roles  
 
-### 🔹 Monitoring & Automation
-- Systemd service + timer for health checks  
-- Grafana/Prometheus monitoring stack  
-- Ansible playbook for user + service deployment  
+### 🔹 Monitoring
+- System monitoring dashboard (logs collected in `logs/`)  
 
 ### 🔹 Cloud Deployment
 - AWS EC2 instance provisioning  
@@ -43,13 +39,10 @@ This repo contains **completed labs, scripts, and projects** demonstrating real-
 ## 📂 Repository Structure  
 
 linux-practice/  
-├── scripts/           # Bash scripts for automation & monitoring  
-├── labs/              # Completed labs with documentation  
-├── systemd/           # Custom .service and .timer units  
-├── automation/        # Ansible playbooks and configs  
-├── logrotate/         # Log rotation configs  
-├── notes/             # Learning notes and references  
-└── logs/              # Captured outputs & screenshots  
+├── labs/        # Hands-on labs with documentation  
+├── logs/        # Captured outputs & screenshots  
+├── notes/       # Study notes and references  
+└── scripts/     # Bash scripts for automation & monitoring  
 
 ---
 
@@ -64,3 +57,4 @@ linux-practice/
 ## 🤝 About This Repo  
 This portfolio showcases **practical sysadmin skills**.  
 Each lab folder includes commands, outputs, and explanations of why the task matters in real-world production environments.  
+
