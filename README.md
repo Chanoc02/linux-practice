@@ -1,45 +1,66 @@
-# Linux System Admin Journey 🚀
 
-This repo documents my journey toward becoming a **Linux System Administrator**, with a strong foundation in networking (CompTIA Network+) and smart integration of cloud literacy for modern IT roles.
+# Linux System Administration Portfolio 🚀
 
-## 💻 What I'm Working On:
-- Linux terminal proficiency and system structure
-- Bash scripting for automation and admin tasks
-- User, group, and permission management
-- System services and journaling (`systemctl`, `journalctl`)
-- Networking basics (`ip`, `ping`, `netstat`, etc.)
-- Git & GitHub for version control and documentation
-- Light cloud integration (AWS EC2, SSH, remote instance access)
+This repo contains **completed labs, scripts, and projects** demonstrating real-world Linux system administration, automation, and cloud deployment skills.  
 
-## 📁 Repo Structure
+---
 
-```
-linux-practice/
-├── scripts/           # Bash scripts for automation & monitoring
-├── notes/             # Learning notes and networking commands
-└── terminal-drills/   # Daily CLI drills
-```
+## ✅ Completed Labs & Projects  
 
-## 📌 Goals & Roadmap
+### 🔹 System Basics
+- Linux + GitHub setup  
+- Bash scripting & automation with cron  
+- Log rotation and monitoring tools  
 
-- [x] Set up Linux and GitHub
-- [x] Create and push first bash script
-- [x] Automate tasks with cron
-- [x] Configure firewall and basic networking
-- [x] Launch EC2 instance and connect via SSH (cloud literacy)
-- [x] Build a mock system monitoring dashboard
-- [x] Explore log rotation and basic monitoring tools
---
+### 🔹 Security & Hardening
+- User & group management with ACLs  
+- SSH hardening (disable root login, change port)  
+- Fail2ban with brute force simulation  
+- Firewall rules (UFW/nftables)  
 
-### 🛠️ In Progress:
-- [x] Create multiple users and manage access
-- [x] Practice group permissions and shared folders
-- [x] Harden SSH (disable root login, change port)
-- [x] Install Fail2ban and simulate SSH brute force protection
-- [x] Set up file sharing with Samba or NFS
-- [X] Set up a local database server (MySQL/PostgreSQL)
-- [x] Run basic Nmap scans on own server
-- [ ] Host a basic HTML monitoring dashboard
+### 🔹 Networking & File Services
+- Samba & NFS file sharing  
+- Networking commands (`ip`, `ss`, `dig`, `traceroute`)  
+- Nmap scanning on local server  
 
-## 🌐 Why Cloud Literacy?
-Modern system administrators often work with hybrid or cloud-based environments. Understanding how to connect to and manage Linux servers in the cloud makes me more versatile and valuable in real-world IT environments.
+### 🔹 Web & Database
+- HTML monitoring dashboard  
+- Nginx/Apache web server + reverse proxy  
+- MySQL/Postgres setup with users & roles  
+
+### 🔹 Monitoring & Automation
+- Systemd service + timer for health checks  
+- Grafana/Prometheus monitoring stack  
+- Ansible playbook for user + service deployment  
+
+### 🔹 Cloud Deployment
+- AWS EC2 instance provisioning  
+- Secure SSH + firewall rules in cloud  
+- Two-node stack: web server + database on separate instances  
+
+---
+
+## 📂 Repository Structure  
+
+linux-practice/  
+├── scripts/           # Bash scripts for automation & monitoring  
+├── labs/              # Completed labs with documentation  
+├── systemd/           # Custom .service and .timer units  
+├── automation/        # Ansible playbooks and configs  
+├── logrotate/         # Log rotation configs  
+├── notes/             # Learning notes and references  
+└── logs/              # Captured outputs & screenshots  
+
+---
+
+## 📌 Next Steps (Future Expansion)  
+- [ ] Containerization with Docker  
+- [ ] Orchestration with Kubernetes / Docker Compose  
+- [ ] CI/CD pipeline integration (GitHub Actions)  
+- [ ] Security auditing with `auditd`, `lynis`, or `tripwire`  
+
+---
+
+## 🤝 About This Repo  
+This portfolio showcases **practical sysadmin skills**.  
+Each lab folder includes commands, outputs, and explanations of why the task matters in real-world production environments.  
