@@ -47,7 +47,7 @@ linux-practice/
 ---
 
 ## 📌 Next Steps (Future Expansion)  
-- [ ] Containerization with Docker  
+- [X] Containerization with Docker  
 - [ ] Orchestration with Kubernetes / Docker Compose  
 - [ ] CI/CD pipeline integration (GitHub Actions)  
 - [ ] Security auditing with `auditd`, `lynis`, or `tripwire`  
