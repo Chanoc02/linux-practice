@@ -50,7 +50,7 @@ linux-practice/
 - [X] Containerization with Docker  
 - [X] Orchestration with Kubernetes / Docker Compose  
 - [X] CI/CD pipeline integration (GitHub Actions)  
-- [ ] Security auditing with `auditd`, `lynis`, or `tripwire`  
+- [x] Security auditing with `auditd`, `lynis`, or `tripwire`  
 
 ---
 
